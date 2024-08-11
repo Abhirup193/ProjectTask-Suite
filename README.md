@@ -36,7 +36,7 @@ Ensure you have Node.js installed on your system.
    git clone https://github.com/Abhirup193/ProjectTask-Suite.git
 2. **Navigate to the project directory:**
    ```bash
-   cd Project-Management-App
+   cd ProjectTask-Suite
 3. **Install dependencies:**
    ```bash
    npm install
