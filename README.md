@@ -21,8 +21,8 @@ ProjectTask Suite is a project management application built using React.js. It a
 ### **No Project Selected**
 ![No Project](./screenshots/NoProject.png)
 
-### **No Project Selected**
-![No Project](./screenshots/NoProject.png)
+### **New Project Section**
+![New Project](./screenshots/NewProjectSection.png)
 
 ## **Getting Started**
 
